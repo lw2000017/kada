@@ -1,0 +1,627 @@
+{
+    "msg": "成功",
+    "data": [
+        {
+            "sourceId": 54341,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/57ec115a-e826-474b-b642-91930c68620f.jpg",
+            "extFlag": 529,
+            "name": "微校互联-大人有事瞒着我",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 54702,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/b960a62d-727a-44f7-8244-df2e96156305.jpg",
+            "extFlag": 9249,
+            "name": "奇幻纳米王国-了不起的纳米小超人",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64674,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/34307fdb-4c4d-481b-b613-a8b0753e7247.jpg",
+            "extFlag": 9249,
+            "name": "熊爸爸不怕",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 61836,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/202b5e64-c292-40b6-86cb-bed5b8949991.jpg",
+            "extFlag": 25649,
+            "name": "和我玩吧",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65013,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/8ecb452d-f51d-4a7d-ac48-d96d15bfdc50.jpg",
+            "extFlag": 1537,
+            "name": "课本里的诗-牧遥",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64717,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/f1fc7455-7416-4881-b7b2-070d319d1020.jpg",
+            "extFlag": 9257,
+            "name": "庐剧-三打白骨精",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64213,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/e40510eb-35f5-4f33-ad4a-ce68c7bdd7ab.jpg",
+            "extFlag": 9249,
+            "name": "第一次发现名画之美-达芬奇1",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65773,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/1d91e6e1-aec5-4ed3-9438-72d650ee4d24.jpg",
+            "extFlag": 8225,
+            "name": "驯悍记",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65764,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/70580f70-cb43-4793-8671-a3160d46a5ce.jpg",
+            "extFlag": 8225,
+            "name": "不听话的狮子小王子",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65653,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/70238f05-c6c5-4c27-8e6b-e74bf83fad6b.jpg",
+            "extFlag": 8225,
+            "name": "水管蜘蛛侠",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66049,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/9adf48fb-d5ab-4c8b-bc40-de7fc12861b9.jpg",
+            "extFlag": 8225,
+            "name": "卡尔的探险之旅-复合分类",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 63039,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/16ea2d91-c43d-433c-9f88-69fd2e2fa26b.jpg",
+            "extFlag": 9251,
+            "name": "春——春天的大自然",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64523,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/de547b6f-2577-4bc5-b1c5-ad910b67337e.jpg",
+            "extFlag": 9249,
+            "name": "超能陆战队",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66182,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/008135ec-a017-4f27-ada6-a502ea557ff7.jpg",
+            "extFlag": 8225,
+            "name": "迷路的小漩涡",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65286,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/e6929490-2d56-49ca-af14-4c13874c221c.jpg",
+            "extFlag": 9249,
+            "name": "红路灯眨眼睛",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 63484,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/4611f252-efab-4629-8950-c66ac56c91a3.jpg",
+            "extFlag": 8241,
+            "name": "四川龙的逆袭",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66688,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/1da97f6d-5f7b-4906-ac7f-2f71e1b1a800.jpg",
+            "extFlag": 8225,
+            "name": "诺曼的化石探险之旅",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65151,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/1b0244d2-26a5-4b80-81b2-f9e56b0d5293.jpg",
+            "extFlag": 9249,
+            "name": "儿童趣味科普百问百答——动物",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66614,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/21b8c94e-dd29-4c1a-b22e-0b62ec88a0b6.jpg",
+            "extFlag": 8225,
+            "name": "宝宝从哪儿来",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66430,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/718f1249-ef8f-4c30-bf74-8bafaa689037.jpg",
+            "extFlag": 8720,
+            "name": "趣读科学绘本1-身体大作战",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66380,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/a34b3adf-3fc7-4f8f-ab14-7c564664c0ed.jpg",
+            "extFlag": 8720,
+            "name": "萌科学-皮肤的秘密",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66479,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/21ed56a5-7b22-4dac-b13f-2c8f79a36b97.jpg",
+            "extFlag": 8720,
+            "name": "最讨厌的动物（上）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66475,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/7b6dc9e1-3391-477e-a252-6fc6faa3b315.jpg",
+            "extFlag": 529,
+            "name": "最神奇的动物（上）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66268,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/6fa075e0-b851-4bb9-902a-592b0e2a6829.jpg",
+            "extFlag": 8721,
+            "name": "秘密蛋糕屋",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66481,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/f08dcd07-fb04-4e52-99d4-c3b88fd83265.jpg",
+            "extFlag": 8720,
+            "name": "最讨厌的动物（下）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66476,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/18b0159a-a221-4e60-a56c-1341cacfcf6f.jpg",
+            "extFlag": 8721,
+            "name": "最神奇的动物（下）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66297,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/1a8208ee-3acd-4b91-92de-bab4a245d53f.jpg",
+            "extFlag": 8721,
+            "name": "长城",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66309,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/35d7c4f3-401b-46d3-9517-d7680796fa53.jpg",
+            "extFlag": 8721,
+            "name": "劳拉的秘密",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66387,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/40997769-1f47-49b9-9c9e-959b2269efc6.jpg",
+            "extFlag": 8720,
+            "name": "科学翻翻绘本-还有比袋鼠跳得远的吗",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65084,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/a0593a6c-542d-465c-b1de-b80d5db00f7e.jpg",
+            "extFlag": 1537,
+            "name": "波流上的合奏曲",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66464,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/449541e5-647f-41b3-81b3-5747aaecde8f.jpg",
+            "extFlag": 8720,
+            "name": "萌科学-倒霉的狮子",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66482,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/3acb3c95-465b-49c9-8e7b-021efcafbff3.jpg",
+            "extFlag": 8721,
+            "name": "最恐怖的动物（上）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66483,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/cff1c377-b2e9-4b98-8447-8e06c8128771.jpg",
+            "extFlag": 8721,
+            "name": "最恐怖的动物（下）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66402,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/f932d618-b3e5-4520-8584-b0a363c7ce2a.jpg",
+            "extFlag": 8721,
+            "name": "阿米要离家出走",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66295,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/4928931d-ed5d-4e5a-977a-795a8efb9c92.jpg",
+            "extFlag": 8721,
+            "name": "孔子",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66405,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/ce56e540-a522-4a50-83c5-530b18ac5cc9.jpg",
+            "extFlag": 8721,
+            "name": "我喜欢安妮",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66409,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/f7648a22-2fdc-44d1-8b57-f196b67b11ce.jpg",
+            "extFlag": 8721,
+            "name": "卡卡搬新家",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66296,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/b9eb4339-a742-4ff3-99aa-78492b13c681.jpg",
+            "extFlag": 8721,
+            "name": "故宫",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66463,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/e995e919-9ce0-480c-8c54-75688bec1233.jpg",
+            "extFlag": 8720,
+            "name": "萌科学-虫虫大变身",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66449,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/e9bbc791-ea95-49a3-84c7-6b86c795b159.jpg",
+            "extFlag": 10769,
+            "name": "小章鱼学算术",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66396,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/31fa0911-02a8-4797-8ccd-83bc26acd929.jpg",
+            "extFlag": 8720,
+            "name": "猫来了",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66299,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/3030e503-ac42-4101-af53-d8f4bf49ae19.jpg",
+            "extFlag": 8721,
+            "name": "诺亚方舟",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66392,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/8c5aaf18-e8f8-4a3e-8445-dbdbcacb2344.jpg",
+            "extFlag": 8721,
+            "name": "第一个吻",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66388,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/5fbed6da-e3d4-4c13-95a6-ff92816b9523.jpg",
+            "extFlag": 8721,
+            "name": "科学翻翻绘本-坐着飞机去上学",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66404,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/21f95edd-b2a9-42c3-9705-2707c54b9ef2.jpg",
+            "extFlag": 8721,
+            "name": "小熊绒绒-找朋友",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66394,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/ef8ae2fe-3a65-4a06-bd23-f696479444ad.jpg",
+            "extFlag": 8721,
+            "name": "小熊绒绒-雪天里的秘密",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66455,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/39aad106-2d9f-4cdb-a135-c7c2f4de98c6.jpg",
+            "extFlag": 8720,
+            "name": "萌科学-一闪一闪亮晶晶",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66377,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/4af724d9-4227-4e3d-8a3b-2437376a7372.jpg",
+            "extFlag": 529,
+            "name": "等等绣球花",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66311,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/392d8a2b-7dbd-41c6-9dc5-9e32c83a3610.jpg",
+            "extFlag": 8705,
+            "name": "这不是一本图画书",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66300,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/a942ce09-cdf7-4e85-aadc-508b6bdfdc54.jpg",
+            "extFlag": 529,
+            "name": "夏天的天空",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66375,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/8a0dc974-170f-4306-9261-cc3bf807af29.jpg",
+            "extFlag": 8720,
+            "name": "绿手指胖罗",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64152,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/90b05b16-1de2-4043-80b0-53b2453c147a.jpg",
+            "extFlag": 9265,
+            "name": "食肉恐龙",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64231,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/99075862-9e00-41d4-99c5-a1775e24e2a6.jpg",
+            "extFlag": 9249,
+            "name": "韩湘子的故事",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 63545,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/ce41b237-b753-4b18-aee5-91102bd42dda.jpg",
+            "extFlag": 9265,
+            "name": "有趣的数学—埃姆斯的几何花园上",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65594,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/0361c8bd-13e5-4a2c-812b-38aa87d5506f.jpg",
+            "extFlag": 8225,
+            "name": "魔发奇缘",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 55186,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/e83e1815-3485-4ac5-b387-93b36fe1ce4d.jpg",
+            "extFlag": 512,
+            "name": "就是这个词",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 63472,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/537ba771-eab4-45f9-abad-51efdd7f056f.jpg",
+            "extFlag": 9267,
+            "name": "加古里子-嘿哟嘿哟嗡嗡嗡",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 62742,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/06016bbb-9ae7-4c57-a691-d2cc38a55286.jpg",
+            "extFlag": 24624,
+            "name": "艾尔的旅行（精选）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 61130,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/dcb8ec58-4286-494b-842c-a7aebfbaadfa.jpg",
+            "extFlag": 11313,
+            "name": "玩具被抢怎么办",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 55193,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/a7fb2b6c-f571-4e5f-a7eb-f9f435bc3837.jpg",
+            "extFlag": 512,
+            "name": "会唱诗的河",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65680,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/0470105a-dee5-4bb4-aeeb-044cf944c6d5.jpg",
+            "extFlag": 8225,
+            "name": "甜蜜冲刺",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66602,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/6af74d1e-8724-4e19-a770-1b6cec02c352.jpg",
+            "extFlag": 8225,
+            "name": "昆虫记：蝉，久历黑暗的歌唱家",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66480,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/42d9503f-8127-4b65-804a-384d1e8770be.jpg",
+            "extFlag": 8225,
+            "name": "两栖爬行动物",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66467,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/d60fd1e8-2d50-49b8-8f84-6bff0c2f7053.jpg",
+            "extFlag": 8721,
+            "name": "奇妙的朋友-最疯狂的动物上",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66470,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/b3300d80-a433-4d77-bec5-28bf634d527f.jpg",
+            "extFlag": 8721,
+            "name": "奇妙的朋友-最狡猾的动物 上",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66465,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/57a6bab9-3d3a-4cd7-9b70-a3b5da4cac34.jpg",
+            "extFlag": 8721,
+            "name": "奇妙的朋友-最恶心的动物上",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66421,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/20d3df13-7e1c-4de6-bef5-ff46cfad6e85.jpg",
+            "extFlag": 8720,
+            "name": "职业规划书-平凡伟大的职业",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66423,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/8f894037-e8dc-4379-97c5-9a058ec80750.jpg",
+            "extFlag": 8720,
+            "name": "职业规划书-星光闪耀的职业",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66418,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/dd909c61-8520-4174-b7f7-3096e3bd59a3.jpg",
+            "extFlag": 8720,
+            "name": "职业规划书-不可思议的职业",
+            "version": 1,
+            "traceId": null
+        }
+    ],
+    "code": 200
+}

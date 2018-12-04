@@ -1,0 +1,816 @@
+{
+    "msg": "成功",
+    "data": [
+        {
+            "sourceId": 66462,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/f030365a-f4d8-4e33-bfdf-9e7db35894ab.jpg",
+            "extFlag": 8720,
+            "name": "智能感悟绘本-小溪里的大冒险",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66461,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/548bad74-60b5-4130-80c2-e6a5ab3f9918.jpg",
+            "extFlag": 8720,
+            "name": "森林大交响乐",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66382,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/e4f87ca6-9d90-4c28-a5cc-f9053d971810.jpg",
+            "extFlag": 8720,
+            "name": "趣读科学绘本5-我不是懒虫",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66435,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/96c072e5-ecd3-46de-b3f0-487e2d42a746.jpg",
+            "extFlag": 8720,
+            "name": "伊娃和丽萨",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66501,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/08b1b433-9c02-46d0-ac39-4180220ee563.jpg",
+            "extFlag": 2577,
+            "name": "中国最美古诗集",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66451,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/c2d18ea5-e73e-4611-8ceb-fcd21f000f67.jpg",
+            "extFlag": 528,
+            "name": "蜂蜜蛋糕树",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66414,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/522abe86-bda1-4814-ac0e-227b4a8357c5.jpg",
+            "extFlag": 8720,
+            "name": "智能感悟绘本-雪地里的生日派对",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66444,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/ec1dcfa8-2b15-4e37-88d6-3d5051dfc98e.jpg",
+            "extFlag": 8720,
+            "name": "妈妈的礼物",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66218,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/fd9c4bad-2021-429f-8d65-a246d772687a.jpg",
+            "extFlag": 8225,
+            "name": "我原谅你",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66438,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/1060ae76-237a-40b3-a3b0-bd365da27ac2.jpg",
+            "extFlag": 8720,
+            "name": "生命悦读-有一天，他们不见了",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66496,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/f8fd2d35-4264-4384-b6af-a37b067cd91c.jpg",
+            "extFlag": 10769,
+            "name": "古诗文诵读",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66407,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/70e465d3-115a-42d1-9be1-b2bdea296b25.jpg",
+            "extFlag": 8721,
+            "name": "猫头鹰的收藏",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66500,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/e95dbf2b-ded6-4148-a410-5313766953b7.jpg",
+            "extFlag": 10769,
+            "name": "学前必背古诗",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66571,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/787d2153-629a-4a78-b1d3-442d3f91cf33.jpg",
+            "extFlag": 8225,
+            "name": "草莓被",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66447,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/68dd0d16-ed6c-43fc-b88f-e104360aeb9e.jpg",
+            "extFlag": 8720,
+            "name": "两个好朋友",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66310,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/4b833ee5-be23-4a01-abb5-043f5a12bcba.jpg",
+            "extFlag": 8720,
+            "name": "赫曼熊的信",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66494,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/99864d5e-b8c0-4afc-8509-e93c31717e98.jpg",
+            "extFlag": 10769,
+            "name": "我爱读古诗",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66390,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/4640a774-1ad3-45bd-999d-8cef659b760a.jpg",
+            "extFlag": 8720,
+            "name": "趣读科学绘本-神奇的呼吸",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66497,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/455a0e43-7c6a-43d5-9742-ba3ee0074d7a.jpg",
+            "extFlag": 10769,
+            "name": "在古诗里看四季",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66493,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/a4ef50f4-1814-4930-8ac2-dc25b0de80ad.jpg",
+            "extFlag": 10769,
+            "name": "给孩子们讲的古诗",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64020,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/f3132c1d-0cf5-4212-b1d6-be6bc23ef7b3.jpg",
+            "extFlag": 9265,
+            "name": "水鸭杰迈玛的故事（中文）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 61683,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/07dea4e7-1969-4218-bb1c-e60c6b5186fa.jpg",
+            "extFlag": 25651,
+            "name": "猫咪打针记",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 63537,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/c1b67893-3a40-4eaf-b52b-66fc458f05f9.jpg",
+            "extFlag": 9265,
+            "name": "01金鱼鞋垫",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 63735,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/d1dc74d6-38a8-4dcd-8757-ac6d7e24447b.jpg",
+            "extFlag": 9249,
+            "name": "叶公好龙",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 66820,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/cfa33355-b912-40c6-b342-ab17bd04edb9.jpg",
+            "extFlag": 8225,
+            "name": "儒学圣人孔子",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65290,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/8c4817cc-e686-4547-afef-2de146e0d10d.jpg",
+            "extFlag": 9249,
+            "name": "冰雪奇缘1",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65305,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/bac1bd23-8790-4124-9c35-bb2b1f192dcb.jpg",
+            "extFlag": 9249,
+            "name": "乐佩家的神秘脚印",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64985,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/c8c461ea-fa8f-425c-80c4-2fc6e996a64a.jpg",
+            "extFlag": 9249,
+            "name": "人人都夸唐老鸭",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64940,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/3d623a66-a8fb-43fe-98f6-bb975137cd2d.jpg",
+            "extFlag": 9248,
+            "name": "寻梦环游记第1集",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64348,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/73907ff1-a88b-4a1c-8430-2f9c6dda01da.jpg",
+            "extFlag": 9249,
+            "name": "白雪公主和七个小矮人",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65019,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/af630501-4410-4a46-b035-376e30659fa1.jpg",
+            "extFlag": 9249,
+            "name": "我的第一套安全书：出行安全2",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 54005,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/8d49032f-6c02-4fba-b861-1732623b8cda.jpg",
+            "extFlag": 9249,
+            "name": "长大干什么第二辑-护士",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65014,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/877eeab7-d075-41e0-86b3-d5858fecd610.jpg",
+            "extFlag": 1537,
+            "name": "课本里的诗-暮雨",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64451,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/00d5a583-c030-42f5-841f-0f1aa7001a88.jpg",
+            "extFlag": 24624,
+            "name": "小仙来敲门（精选）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 63513,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/3b70f62b-c261-4e30-aee9-4f611064379a.jpg",
+            "extFlag": 24624,
+            "name": "科学翻翻绘本-跟着陆地去漂流（精选）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65073,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/c70f7655-e3cc-41a6-8a03-897521579e99.jpg",
+            "extFlag": 16913,
+            "name": "冰糖葫芦，谁买？（精选）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65012,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/02173d41-f85f-46e3-96dc-c760df4c92cb.jpg",
+            "extFlag": 1537,
+            "name": "课本里的诗-落月",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64829,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/e1766d89-abf4-45d4-af7e-39fb68df5e86.jpg",
+            "extFlag": 1537,
+            "name": "吊床上的夏天 秋冬篇",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65165,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/bf4da8ba-06a9-464f-a2cc-f0d4df8b4503.jpg",
+            "extFlag": 9249,
+            "name": "智利女孩的火星笔友",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 62763,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/9a594dba-89a1-4b7e-a062-fbb57518c397.jpg",
+            "extFlag": 9249,
+            "name": "超级恐龙总动员上",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 61449,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/5421bbd8-05d9-4015-958c-dbd95dafd4d4.jpg",
+            "extFlag": 17937,
+            "name": "精卫填海（精选）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 62632,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/b951de89-9b18-4ba5-bd9b-ef2617005ad2.jpg",
+            "extFlag": 24624,
+            "name": "猜猜在哪里（精选）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65072,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/27dc0499-4cc6-4f08-9b9d-68e7d37bb25b.jpg",
+            "extFlag": 16913,
+            "name": "布雷特发脾气（精选）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65000,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/971da5c2-ccfe-45b9-aadb-df85038f0231.jpg",
+            "extFlag": 1537,
+            "name": "课本里的诗-春望",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64828,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/12b2c9fc-c1f3-43a7-938b-f321dfa60f83.jpg",
+            "extFlag": 1537,
+            "name": "吊床上的夏天 春夏篇",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 54060,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/dce74364-d03e-40a1-a073-5880ac7de252.jpg",
+            "extFlag": 529,
+            "name": "爱美的小绵羊“库拉”",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 62225,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/11979f20-535e-49b4-b2c0-37ed2cabae95.jpg",
+            "extFlag": 9249,
+            "name": "美丽故事绘本第二辑——晚安，我的星星",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65071,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/715ed7d6-3161-4642-8f4e-18699e74d7c0.jpg",
+            "extFlag": 529,
+            "name": "青凤（精选）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64825,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/392d8a2b-7dbd-41c6-9dc5-9e32c83a3610.jpg",
+            "extFlag": 1537,
+            "name": "这不是一本图画书",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 54057,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/d94a64af-cacb-4e85-b106-93c281edfaa0.jpg",
+            "extFlag": 529,
+            "name": "小精灵的礼物",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 62925,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/d2c2660f-78f0-4298-9bd8-fe0d2493bdff.jpg",
+            "extFlag": 9249,
+            "name": "鹤民国",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65015,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/ce4ed60f-c51c-4301-818f-6799c9dcb7b9.jpg",
+            "extFlag": 9249,
+            "name": "我的第一套安全书：出行安全1",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65517,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/a6a7f89b-4a64-4e5f-8391-4cacc8b3cbca.jpg",
+            "extFlag": 8225,
+            "name": "贪心的沼泽龙",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65420,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/c183b0cc-b561-48cc-9e08-5326286b6024.jpg",
+            "extFlag": 1537,
+            "name": "冬藏箴言",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65419,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/c46ee0c7-e455-4026-9b5a-2e35aeaa7fb9.jpg",
+            "extFlag": 1537,
+            "name": "秋收乐曲",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65418,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/849fd70b-c5b3-41a1-9528-432d32eb42ba.jpg",
+            "extFlag": 1537,
+            "name": "夏长欢歌",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65417,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/263d85d2-0dbb-4247-8726-37e7c8431170.jpg",
+            "extFlag": 1537,
+            "name": "春种细雨",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65247,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/38607438-88de-4a25-b407-02259a35d089.jpg",
+            "extFlag": 9249,
+            "name": "父与子全集1",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65238,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/66f41d63-dce4-4289-996b-15f58ddef7c1.jpg",
+            "extFlag": 9249,
+            "name": "赛车档案故事-卡布和奇诺的新旅程",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 63517,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/606f9b30-d456-4503-a401-2566e4726ce4.jpg",
+            "extFlag": 24625,
+            "name": "田螺姑娘（精选）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 65275,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/517b0e3a-87fe-4d6a-b180-bdc5c89c6a00.jpg",
+            "extFlag": 1537,
+            "name": "狐狸夜游记",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64818,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/f9425657-656c-436e-bfc6-d7d6746f926b.jpg",
+            "extFlag": 1537,
+            "name": "叽喀叽喀蹦蹦",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 54543,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/8c087d6d-aac8-4008-90df-1b08e01f6bd3.jpg",
+            "extFlag": 513,
+            "name": "黑荔枝-鸟少年飞禽电台",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 54056,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/bfedb499-6ea6-40cd-bd58-a0505ef87bb6.jpg",
+            "extFlag": 529,
+            "name": "圈圈的名字",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64035,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/4da528d2-7c3e-4436-a230-f4be385174f1.jpg",
+            "extFlag": 9249,
+            "name": "淘气精灵吃“弹性”",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64816,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/ff0ea337-b8cb-4c70-85fe-9d2cebe62c3b.jpg",
+            "extFlag": 1537,
+            "name": "叽喀叽喀123",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 54542,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/d6f081c1-4495-441f-b38b-cb32d9a62e25.jpg",
+            "extFlag": 513,
+            "name": "黑荔枝不凋集-生如夏花",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 54055,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/d2b94443-f1e2-4aaf-8052-93a39c11b05b.jpg",
+            "extFlag": 529,
+            "name": "方便面女孩",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64264,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/35d7c4f3-401b-46d3-9517-d7680796fa53.jpg",
+            "extFlag": 25649,
+            "name": "劳拉的秘密",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 61600,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/0ae6a81a-877f-4a80-bcad-c39458b778f3.jpg",
+            "extFlag": 25649,
+            "name": "玛德琳（童立方）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 60799,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/79084129-b4dd-4bf0-8935-1b61f44a97d9.jpg",
+            "extFlag": 9249,
+            "name": "李尔王",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 61912,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/854b9232-bbe5-42a9-847f-1d0534acb91e.jpg",
+            "extFlag": 25649,
+            "name": "孔子的故事",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64952,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/7d34a211-f2cf-4f8f-a63c-a6f51c745814.jpg",
+            "extFlag": 1537,
+            "name": "课本里的诗-朝槿",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 54541,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/ce8d0cb2-7b00-4813-81e5-c42824894f70.jpg",
+            "extFlag": 512,
+            "name": "黑荔枝不凋集-冬之子",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 54054,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/66f3b24f-a67f-4840-916a-ddf60cffa8b6.jpg",
+            "extFlag": 529,
+            "name": "撑伞的鱼",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 63665,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/9a920419-a32e-43b9-b5bd-2dd64367199f.jpg",
+            "extFlag": 9267,
+            "name": "一起念咒语吧",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64507,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/f689f5cf-2997-4721-a714-3a1f9b6d6308.jpg",
+            "extFlag": 9249,
+            "name": "童眼识天下科普馆-史前动物上",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64755,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/4d548312-be47-4786-bf65-5e16e7f6c72e.jpg",
+            "extFlag": 1537,
+            "name": "湛蓝、湛蓝！",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 54533,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/b26f2eb8-2c55-4685-a72a-0e9e2c2841c8.jpg",
+            "extFlag": 512,
+            "name": "猫猫虎第9话 春游历险记（下）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 61365,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/13cddc09-b8ac-4f67-9ad5-6d973b365291.jpg",
+            "extFlag": 25649,
+            "name": "小兔本杰明",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 61578,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/abd5e6b7-a1cc-40cc-8706-bd3b316eaf71.jpg",
+            "extFlag": 27697,
+            "name": "巴巴的旅行",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64998,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/12871823-f622-4493-bb55-b0937c6ae541.jpg",
+            "extFlag": 9249,
+            "name": "安娜的春日游行",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 62355,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/5f1cab41-667d-4293-8e6b-2f40480b5bee.jpg",
+            "extFlag": 9249,
+            "name": "哪吒闹海",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 60304,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/cc3dc40b-e29d-4ce3-9e45-3765f510a373.jpg",
+            "extFlag": 9249,
+            "name": "丑小鸭",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 63922,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/abd300b9-4068-4a40-a227-b47fc7f80297.jpg",
+            "extFlag": 9249,
+            "name": "北国的小城",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 62334,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/0b034f52-5b3e-4a9c-b25d-db4e35f2988e.jpg",
+            "extFlag": 9249,
+            "name": "笑笑爱说反话",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 54531,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/b5ee550b-ed6a-403b-bc0b-5e978195e31c.jpg",
+            "extFlag": 512,
+            "name": "猫猫虎第8话 春游历险记（上）",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64996,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/75454413-9a17-4910-9df6-ddc3276bf8a8.jpg",
+            "extFlag": 9249,
+            "name": "小美人鱼",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 64681,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/435c7275-95e4-47e0-a268-17801c27f574.jpg",
+            "extFlag": 9249,
+            "name": "危险的小鳄鱼",
+            "version": 1,
+            "traceId": null
+        },
+        {
+            "sourceId": 60737,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/090e17a2-9880-4e54-bda9-c41dc609d057.jpg",
+            "extFlag": 25649,
+            "name": "美国",
+            "version": 1,
+            "traceId": null
+        }
+    ],
+    "code": 200
+}

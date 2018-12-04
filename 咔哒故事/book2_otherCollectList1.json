@@ -1,0 +1,633 @@
+{
+    "msg": "成功",
+    "data": [
+        {
+            "sourceId": 60182,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/d960ab5d-2ee4-4a70-b55e-a4276193c1e5.jpg",
+            "extFlag": 8,
+            "name": "格林童话",
+            "version": 0
+        },
+        {
+            "sourceId": 60806,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/3776313e-0dcf-498e-8a49-9cee4ce5e324.jpg",
+            "extFlag": 1576,
+            "name": "儿童自我管理",
+            "version": 0
+        },
+        {
+            "sourceId": 60970,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/cc9ba933-db4d-4393-9301-f0883cd6762a.jpg",
+            "extFlag": 1544,
+            "name": "送给孩子的美丽英语故事 第二辑",
+            "version": 0
+        },
+        {
+            "sourceId": 60465,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/15b98f52-567a-46dc-ae1c-2b47d62a0790.jpg",
+            "extFlag": 17464,
+            "name": "新版美绘西游记",
+            "version": 0
+        },
+        {
+            "sourceId": 60072,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/54e21811-17f7-4846-b6c2-3fec57085406.jpg",
+            "extFlag": 8,
+            "name": "我们的四季",
+            "version": 0
+        },
+        {
+            "sourceId": 60162,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/2ef1dd44-906d-4332-bfc4-56a5a2f11674.jpg",
+            "extFlag": 8,
+            "name": "咔哒动物园——牛",
+            "version": 0
+        },
+        {
+            "sourceId": 53481,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/ae281edc-7650-4b88-a313-4ad42c573dd9.jpg",
+            "extFlag": 4112,
+            "name": "宫西达也作品集",
+            "version": 0
+        },
+        {
+            "sourceId": 53425,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/006fda01-3cf8-4431-97f9-47d640afeb38.jpg",
+            "extFlag": 4104,
+            "name": "培生英语1-4级",
+            "version": 0
+        },
+        {
+            "sourceId": 61787,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/e9bb2282-2648-4300-93bb-bdda71442a94.jpg",
+            "extFlag": 5120,
+            "name": "幼儿园分级必读：宝贝成长图画书",
+            "version": 0
+        },
+        {
+            "sourceId": 60076,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/459154ab-bb1a-42b1-bb89-2ba7e5ac976b.jpg",
+            "extFlag": 4096,
+            "name": "情绪解码",
+            "version": 0
+        },
+        {
+            "sourceId": 60022,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/591f9005-33ee-465e-ab66-f71ef719630c.jpg",
+            "extFlag": 64,
+            "name": "独立，我可以！",
+            "version": 0
+        },
+        {
+            "sourceId": 52895,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/94c7b03d-a739-491d-9210-54ebf5922dbd.png",
+            "extFlag": 64,
+            "name": "李欧.李奥尼作品集",
+            "version": 0
+        },
+        {
+            "sourceId": 60627,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/24b1facc-68d2-497a-9306-7ed1aecb18bd.jpg",
+            "extFlag": 1104,
+            "name": "做内心强大的自己——歪歪兔逆商教育",
+            "version": 0
+        },
+        {
+            "sourceId": 54873,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/525e93e6-e4ca-48df-8478-c2ea99ba9c41.jpg",
+            "extFlag": 521,
+            "name": "阿咪虎的故事—小小快递员",
+            "version": 1
+        },
+        {
+            "sourceId": 53528,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/1235f596-3b96-46d1-9f07-84f8fb26c207.jpg",
+            "extFlag": 664,
+            "name": "狼，狼，你来了吗？",
+            "version": 1
+        },
+        {
+            "sourceId": 50050,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/af31019c-e9b1-4b1a-bc1f-57023980e0c4.jpg",
+            "extFlag": 2569,
+            "name": "有个性的羊",
+            "version": 1
+        },
+        {
+            "sourceId": 51074,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/01e77e0f-be7a-48f3-9951-306cdae7592b.jpg",
+            "extFlag": 520,
+            "name": "城里最漂亮的巨人",
+            "version": 1
+        },
+        {
+            "sourceId": 53092,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/5d531606-0237-431c-ba85-3f304862f5ad.jpg",
+            "extFlag": 2696,
+            "name": "小灰狼请客",
+            "version": 1
+        },
+        {
+            "sourceId": 55200,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/60a6ffe4-09c6-45bd-81e3-06736b6ba1f3.jpg",
+            "extFlag": 520,
+            "name": "胆小鬼的威力",
+            "version": 1
+        },
+        {
+            "sourceId": 66213,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/6cd2c306-9bbe-4bfa-b7a3-1d8cf185f5c5.jpg",
+            "extFlag": 576,
+            "name": "绘本",
+            "version": 1
+        },
+        {
+            "sourceId": 61208,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/24b989ba-f50f-47c6-bb0c-31287649277f.jpg",
+            "extFlag": 1032,
+            "name": "爱上科学：奇幻纳米王国",
+            "version": 0
+        },
+        {
+            "sourceId": 60223,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/6448827e-7515-4e47-a840-ee7ee30a00e6.jpg",
+            "extFlag": 50216,
+            "name": "培养数学思维：狮子艾比学数学",
+            "version": 0
+        },
+        {
+            "sourceId": 60024,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/462c7eba-f148-45d8-8a1d-c3bd6ddeb153.jpg",
+            "extFlag": 8,
+            "name": "晚安，淘气鬼",
+            "version": 0
+        },
+        {
+            "sourceId": 50436,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/a0e0d0f9-8192-4f85-b8e9-281c8555e5f0.jpg",
+            "extFlag": 0,
+            "name": "米菲过生日",
+            "version": 0
+        },
+        {
+            "sourceId": 50039,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/8f525e72-8f1c-4dbf-861a-a2fabe148245.jpg",
+            "extFlag": 0,
+            "name": "公园里的声音",
+            "version": 0
+        },
+        {
+            "sourceId": 66055,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/1b3020e8-afcd-49b4-a8c6-ae6b9bec8c8a.jpg",
+            "extFlag": 0,
+            "name": "小安娜和长叔叔-变小的长叔叔",
+            "version": 0
+        },
+        {
+            "sourceId": 66014,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/c02c5e5d-56ed-439a-a2cc-b2ebb4219782.jpg",
+            "extFlag": 0,
+            "name": "小红生病了（1）",
+            "version": 0
+        },
+        {
+            "sourceId": 65959,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/dd9eba59-8000-40b3-9a5a-8b31b4d5ae8b.jpg",
+            "extFlag": 0,
+            "name": "幸福的小豆豆-理发，不怕",
+            "version": 0
+        },
+        {
+            "sourceId": 65956,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/49ba824b-4941-4586-a996-496c60129ad1.jpg",
+            "extFlag": 0,
+            "name": "小幽灵与女巫",
+            "version": 0
+        },
+        {
+            "sourceId": 65954,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/60762179-ae1f-4748-b289-44c5390c69f3.jpg",
+            "extFlag": 0,
+            "name": "灰姑娘",
+            "version": 0
+        },
+        {
+            "sourceId": 65951,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/e3277d43-e1a6-4249-a70e-e1c782436106.jpg",
+            "extFlag": 0,
+            "name": "李寄除妖",
+            "version": 0
+        },
+        {
+            "sourceId": 60027,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/a93853d5-78d4-474b-bbf0-cf2c26f4fbe2.jpg",
+            "extFlag": 8,
+            "name": "咔哒礼仪课",
+            "version": 0
+        },
+        {
+            "sourceId": 52606,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/2fcf2978-c6ae-43e6-8b58-b1724a671f81.jpg",
+            "extFlag": 8,
+            "name": "蹦蹦和跳跳的故事",
+            "version": 0
+        },
+        {
+            "sourceId": 60035,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/0331fb4f-5f67-42f2-b942-a580cd55d297.jpg",
+            "extFlag": 8,
+            "name": "节日这样过",
+            "version": 0
+        },
+        {
+            "sourceId": 65948,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/e549d20e-5241-4336-815c-5bb540600bd7.jpg",
+            "extFlag": 0,
+            "name": "彩虹色的花",
+            "version": 0
+        },
+        {
+            "sourceId": 65945,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/c04e8fcf-a7b9-4691-a1e7-220766963c4c.jpg",
+            "extFlag": 0,
+            "name": "熊小米-再见，志平",
+            "version": 0
+        },
+        {
+            "sourceId": 65904,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/909107e2-267d-48c4-b1c4-e6b301d5494b.jpg",
+            "extFlag": 0,
+            "name": "丁香树",
+            "version": 0
+        },
+        {
+            "sourceId": 65903,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/252aec51-0566-4bad-8559-57321beedab6.jpg",
+            "extFlag": 0,
+            "name": "乐婆婆和她的小狗",
+            "version": 0
+        },
+        {
+            "sourceId": 65901,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/c3a5b0af-d4db-4eb2-ab25-b9132bc8bd2c.jpg",
+            "extFlag": 0,
+            "name": "字母D",
+            "version": 0
+        },
+        {
+            "sourceId": 62583,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/1c545bf4-0f62-4e9e-b976-9cff80616e4e.jpg",
+            "extFlag": 0,
+            "name": "l'm ready fm",
+            "version": 0
+        },
+        {
+            "sourceId": 51380,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/bca4229d-69c8-431a-a946-a1ca52fc6fa6.jpg",
+            "extFlag": 0,
+            "name": "妈妈发火了",
+            "version": 0
+        },
+        {
+            "sourceId": 52983,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/ea7b82a1-3ad8-4794-95ab-3c42fec2f055.jpg",
+            "extFlag": 0,
+            "name": "宝贝成长图画书-幼儿园里的超人",
+            "version": 0
+        },
+        {
+            "sourceId": 60062,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/d9e901b4-1aa2-422e-865f-ecb38829970a.jpg",
+            "extFlag": 8,
+            "name": "自强的小战士",
+            "version": 0
+        },
+        {
+            "sourceId": 54963,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/49aef138-ae9b-4f82-a6bf-43833b1050b4.jpg",
+            "extFlag": 8,
+            "name": "生命教育",
+            "version": 0
+        },
+        {
+            "sourceId": 60084,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/40e10478-b40b-45a1-b62c-8dd874a7f3a2.jpg",
+            "extFlag": 8,
+            "name": "星星",
+            "version": 0
+        },
+        {
+            "sourceId": 50152,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/d7e9afa9-5cde-47c5-bd48-1ae8f3ea0dd4.jpg",
+            "extFlag": 0,
+            "name": "螃蟹咔哒的故事",
+            "version": 0
+        },
+        {
+            "sourceId": 53542,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/d11b145f-b616-4b37-b514-f948ca112656.jpg",
+            "extFlag": 0,
+            "name": "最艺术画馆-仙鹤与狼",
+            "version": 0
+        },
+        {
+            "sourceId": 50045,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/bf507166-cbe8-44a8-b06d-bfd1016bf05c.jpg",
+            "extFlag": 0,
+            "name": "我喜欢书",
+            "version": 0
+        },
+        {
+            "sourceId": 53079,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/b2f7b4cd-041a-478b-8e65-1bb92618c8ed.jpg",
+            "extFlag": 0,
+            "name": "德国绘本新房子里的复活节",
+            "version": 0
+        },
+        {
+            "sourceId": 53487,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/48dbc3da-2966-43d6-a9ec-88d8fb4ac756.jpg",
+            "extFlag": 0,
+            "name": "Super Car",
+            "version": 0
+        },
+        {
+            "sourceId": 50850,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/b07bf613-e8b1-4a90-a1e2-94a434ec9f57.jpg",
+            "extFlag": 0,
+            "name": "请不要生气",
+            "version": 0
+        },
+        {
+            "sourceId": 50723,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/68f791e2-34aa-4ae6-93bd-1222b33c6193.jpg",
+            "extFlag": 0,
+            "name": "妈妈，买绿豆",
+            "version": 0
+        },
+        {
+            "sourceId": 50094,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/769f4012-5119-40a6-bafd-71224af74d2c.jpg",
+            "extFlag": 0,
+            "name": "蜡笔总动员3",
+            "version": 0
+        },
+        {
+            "sourceId": 50073,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/cc255a22-ce0e-42b1-b8fa-59bfda62ea38.jpg",
+            "extFlag": 0,
+            "name": "吃掉黑暗的怪兽",
+            "version": 0
+        },
+        {
+            "sourceId": 52678,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/30b24b0c-1e5d-492a-a154-e8612121019c.jpg",
+            "extFlag": 8,
+            "name": "青蛙弗洛格的成长故事",
+            "version": 0
+        },
+        {
+            "sourceId": 53198,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/5b268ae4-7459-486d-a5b6-995cdbd30fcc.jpg",
+            "extFlag": 264,
+            "name": "宝贝成长图画书",
+            "version": 0
+        },
+        {
+            "sourceId": 60118,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/b5ef38d2-9124-413c-88fb-cd871cd86c59.jpg",
+            "extFlag": 8,
+            "name": "警察",
+            "version": 0
+        },
+        {
+            "sourceId": 50920,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/fda21028-1c1d-478b-aecb-a9e850ff0e5e.jpg",
+            "extFlag": 0,
+            "name": "再讲一个故事吧",
+            "version": 0
+        },
+        {
+            "sourceId": 50606,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/2092fef5-7780-4262-8115-1915268a2b9b.jpg",
+            "extFlag": 0,
+            "name": "We went to See",
+            "version": 0
+        },
+        {
+            "sourceId": 51865,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/7f3c7a54-dd2a-484a-ae81-cb0584a6f80e.jpg",
+            "extFlag": 0,
+            "name": "小北极熊和潜水艇",
+            "version": 0
+        },
+        {
+            "sourceId": 50707,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover/8d9ae8c5-2bb1-4ab7-9bbe-61fa95cad71f.jpg",
+            "extFlag": 0,
+            "name": "Will It Be a?",
+            "version": 0
+        },
+        {
+            "sourceId": 51825,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/fbcf323e-41a9-4307-bccb-0114e3e687f4.jpg",
+            "extFlag": 0,
+            "name": "三个怪物",
+            "version": 0
+        },
+        {
+            "sourceId": 51453,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/f478975d-863b-434c-861f-b9d96341cbfb.jpg",
+            "extFlag": 0,
+            "name": "小虾“哒咯”的故事",
+            "version": 0
+        },
+        {
+            "sourceId": 51667,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/7ffd3c49-4e53-4169-988c-e62b52f4fa8d.jpg",
+            "extFlag": 0,
+            "name": "人心不足蛇吞象",
+            "version": 0
+        },
+        {
+            "sourceId": 51664,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/f979aef3-1af6-470b-9a46-441287799a93.jpg",
+            "extFlag": 0,
+            "name": "林海音奶奶讲寓言-画龙点睛",
+            "version": 0
+        },
+        {
+            "sourceId": 51455,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/591af1c8-3630-4f26-ab71-170ba368d33d.jpg",
+            "extFlag": 0,
+            "name": "这不是我的帽子",
+            "version": 0
+        },
+        {
+            "sourceId": 60648,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/264d8b54-f827-4ff4-9898-43e2f3918606.jpg",
+            "extFlag": 66616,
+            "name": "为什么不可以",
+            "version": 0
+        },
+        {
+            "sourceId": 60139,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/2071be31-7e4c-4590-8f3b-e6d67baa508e.jpg",
+            "extFlag": 8,
+            "name": "我也想要有只狗",
+            "version": 0
+        },
+        {
+            "sourceId": 60170,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/c84cbe63-cffb-4b0f-ad38-f201331c453a.jpg",
+            "extFlag": 8,
+            "name": "凯迪克金奖作品",
+            "version": 0
+        },
+        {
+            "sourceId": 50500,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/235fe522-1421-44c8-be07-508dcaba9913.jpg",
+            "extFlag": 0,
+            "name": "你是谁呀",
+            "version": 0
+        },
+        {
+            "sourceId": 51259,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/d79c5d61-93c2-47eb-b07d-0fec568f507b.jpg",
+            "extFlag": 0,
+            "name": "彩香的邮局",
+            "version": 0
+        },
+        {
+            "sourceId": 50746,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/99e0eff8-e3c2-40f9-ac28-10d44eb194a0.jpg",
+            "extFlag": 0,
+            "name": "相拥而眠",
+            "version": 0
+        },
+        {
+            "sourceId": 52187,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/f860a111-7bdb-48bc-bbca-d487348d9939.jpg",
+            "extFlag": 0,
+            "name": "好消息坏消息",
+            "version": 0
+        },
+        {
+            "sourceId": 53486,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/9e842df5-35ce-40d2-a40c-4013518fc88b.jpg",
+            "extFlag": 0,
+            "name": "at the park",
+            "version": 0
+        },
+        {
+            "sourceId": 52283,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/f905b84c-8acc-4c6a-a6d6-7766acc6f0e1.jpg",
+            "extFlag": 0,
+            "name": "咚咚咚",
+            "version": 0
+        },
+        {
+            "sourceId": 52910,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/24e584d3-8754-43cf-9c25-b22cccd6d58f.jpg",
+            "extFlag": 0,
+            "name": "条纹鱼得救了",
+            "version": 0
+        },
+        {
+            "sourceId": 50079,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/133f150d-d44c-4bb8-b547-14cc88270f3d.jpg",
+            "extFlag": 0,
+            "name": "丢丢兔与瞌睡虫",
+            "version": 0
+        },
+        {
+            "sourceId": 50974,
+            "type": 1,
+            "image": "http://image.hhdd.com/books/cover_rec/db290e68-5b40-461a-8423-7fb7aa674cb7.jpg",
+            "extFlag": 0,
+            "name": "会飞的箱子",
+            "version": 0
+        },
+        {
+            "sourceId": 60192,
+            "type": 2,
+            "image": "http://image.hhdd.com/books/cover/c8eb526b-28c9-4b7c-bb32-c94a8ea97797.jpg",
+            "extFlag": 8,
+            "name": 
